@@ -18,8 +18,8 @@ For Ubuntu, other dependencies can be installed with apt-get. See .github/workfl
 
 [source, shell]
 ----
-$ git clone https://github.com/zigen-project/zen.git
-$ cd zen
+$ git clone https://github.com/zigen-project/zukou.git
+$ cd zukou
 $ meson build
 $ ninja -C build install
 ----
